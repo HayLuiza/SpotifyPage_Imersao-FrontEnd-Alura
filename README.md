@@ -36,4 +36,4 @@ Durante o desenvolvimento, aplicamos conceitos essenciais de HTML, CSS e JavaScr
 
 ### 🛠 Tecnologias Utilizadas
 
-` HTML ` • `CSS` • `JavaScript` • `JSON Server`
+`HTML` • `CSS` • `JavaScript` • `JSON Server`
