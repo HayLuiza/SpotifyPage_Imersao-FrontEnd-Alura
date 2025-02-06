@@ -1,0 +1,24 @@
+{
+    "artists": [
+      { "id": 1, "name": "Foo Fighters", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15" },
+      { "id": 2, "name": "Michael Jackson", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa" },
+      { "id": 3, "name": "Emicida", "genre": "Hip Hop", "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068" },
+      { "id": 4, "name": "Chitãozinho e Xororó", "genre": "Sertanejo", "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4" },
+      { "id": 5, "name": "Mc Coringa", "genre": "Funk", "urlImg": "https://i.scdn.co/image/ab67616d00001e02fe8f6dd361ad0f12b88c7f56" },
+      { "id": 6, "name": "Arlindo Cruz", "genre": "Samba", "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839" },
+      { "id": 7, "name": "Caetano Veloso", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757" },
+      { "id": 8, "name": "BTS", "genre": "K-Pop", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" },
+        { "id": 9, "name": "BLACKPINK", "genre": "K-Pop", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" },
+        { "id": 10, "name": "EXO", "genre": "K-Pop", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" },
+        { "id": 11, "name": "TWICE", "genre": "K-Pop", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebca6c145421fa9ceb58d6f9d4" },
+        { "id": 12, "name": "SEVENTEEN", "genre": "K-Pop", "urlImg": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84318dbd93480b3bbbcf8eda95" },
+        { "id": 13, "name": "Stray Kids", "genre": "K-Pop", "urlImg": "https://i.scdn.co/image/ab6775700000ee85433078d4bee1d5fcc7445c59" },
+        { "id": 14, "name": "Baby Monster", "genre": "K-Pop", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebb419d66ef21661311c806bfe" },
+        { "id": 15, "name": "2NE1", "genre": "K-Pop", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebcd3114c3d3dc89d5ec1c9145" },
+        { "id": 17, "name": "BIGBANG", "genre": "K-Pop", "urlImg": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2MKBFK-default.jpg" },
+        { "id": 18, "name": "Scorpions", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb7440170c0628c2945da819c3" },
+        { "id": 19, "name": "Bon Jovi", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb52aade0d2ea19706074da4b9" },
+        { "id": 20, "name": "The Beatles", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" },
+        { "id": 21, "name": "ABBA", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab67616d0000b27392d0747a634fcc351c6ac3c2" }
+    ]
+}
